@@ -17,7 +17,7 @@ daha sonra client dosyası içinde
 $ npm start
 komutlarını çalıştırınız.
 ```
-# Database Kurulumu
+## Database Kurulumu
 backup dosyasını çalıştırdıktan sonr server/database.js dosyasına girip bilgilerinizi yazın.
 
 Olası bir problemle karşılaştığınız zaman
