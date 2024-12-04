@@ -10,11 +10,14 @@ $ npm install
 client dosyası içinde
 $ npm install
 ```
-
-çalıştırmak için önce server dosyası iniçnde npm start
-daha sonra cient dosyası içinde npm start komutlarını çalıştırınız.
-
+```
+çalıştırmak için önce server dosyası içinde
+$ npm start
+daha sonra client dosyası içinde
+$ npm start
+komutlarını çalıştırınız.
+```
 Olası bir problemle karşılaştığınız zaman
 m.ozu@etu.edu.tr adresine mail atabilirsiniz.
-```
+
 
